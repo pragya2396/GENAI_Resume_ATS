@@ -64,7 +64,8 @@ GOOGLE_API_KEY=your_google_gemini_api_key
 streamlit run app.py
 
 App Functionalities
-🔹 Tell Me About the Resume
+
+🔹 **Tell Me About the Resume**
 
 HR-style professional evaluation
 
@@ -72,7 +73,7 @@ Strengths and weaknesses
 
 Alignment with job requirements
 
-🔹 Percentage Match
+🔹 **Percentage Match**
 
 ATS-style resume scoring
 
@@ -82,10 +83,3 @@ Missing keywords
 
 Final improvement suggestions
 
-
-
-Students preparing resumes for tech roles
-
-Career coaches and mentors
-
-Recruiters testing ATS-style screening logic
